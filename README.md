@@ -6,10 +6,6 @@ A simple console-based Car Rental System implemented in Java, showcasing Object-
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
